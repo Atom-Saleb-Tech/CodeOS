@@ -15,4 +15,4 @@ set CODE=".build\electron\%NAMESHORT%"
 popd
 
 endlocal
-exit /b %errorlevel%
+exit /b
